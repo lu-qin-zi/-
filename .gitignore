@@ -1,0 +1,13 @@
+# Python 虚拟环境和缓存（不上传）
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+
+# 不想公开的练习代码（只在本地，不会出现在 GitHub）
+求根公式.py
+练习一号.py
+练习二号.py
+单词合集.txt
